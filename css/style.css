@@ -58,11 +58,11 @@ html {
 }
 
 #rotate2 {
-  animation: animStar 100s linear infinite;
+  animation: animStar 150s linear infinite;
 }
 
 #rotate3 {
-  animation: animStar 100s linear infinite;
+  animation: animStar 200s linear infinite;
 }
 
 @keyframes animStar {
